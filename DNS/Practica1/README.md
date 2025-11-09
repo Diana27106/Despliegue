@@ -97,6 +97,8 @@ Inicialmente, el bucket tenía un nombre diferente al dominio, por lo que AWS mo
 
 > **Solución:** Crear un nuevo bucket con el **mismo nombre que el dominio** y volver a habilitar el hosting estático. Luego funcionó correctamente.
 
+URL Final: http://www.2dawdiana.publicvm.com
+
 ---
 
 ## ✅ Conclusión
